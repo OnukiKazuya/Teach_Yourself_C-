@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{00F89662-A703-4ED2-9738-E78F92B614C4}</ProjectGuid>
-    <RootNamespace>My5U7</RootNamespace>
+    <ProjectGuid>{A61E64F2-9DCD-42A0-A850-281A11ED2440}</ProjectGuid>
+    <RootNamespace>My5U1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,7 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ソース1.cpp" />
+    <ClCompile Include="ソース.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
